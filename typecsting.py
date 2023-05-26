@@ -66,6 +66,21 @@ e=5+6j
 print(bool(e)) #True
 
 
+f="10"
+print(int(f))
+print(float(f))
+print(bool(f))
+print(complex(f))
+
+
+
+#output
+#10
+#10.0
+#True
+#(10+0j)
+
+
 
 
 
